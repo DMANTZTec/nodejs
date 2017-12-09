@@ -1,0 +1,2 @@
+require("./vandana");
+require("./teja");
